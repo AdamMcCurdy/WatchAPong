@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "pi-gpio": "0.0.8",
-    "rpi-gpio": "^0.7.0"
+    "rpi-gpio": "^0.7.0",
+    "slack-webhook": "^1.0.0"
   }
 }
